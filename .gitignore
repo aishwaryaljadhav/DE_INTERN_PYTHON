@@ -1,0 +1,6 @@
+# Ignore the Jupyter notebook file (specific)
+Basics.ipynb
+
+# Ignore Python bytecode cache directories and compiled files
+__pycache__/
+*.pyc
