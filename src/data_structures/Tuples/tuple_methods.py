@@ -1,0 +1,5 @@
+tuple=(1,4,9,16,25)
+print(type(tuple))
+print(tuple[1:4])
+print(tuple.index(9))
+print(tuple.count(4))
