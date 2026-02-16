@@ -1,0 +1,12 @@
+# f= open("demo.txt", "r")
+f=open("demo.txt", "a")
+# data= f.read(5)
+# data= f.read() 
+# line1= f.readline()
+# print(line1)
+# line2= f.readline()
+# print(line2)
+# print(type(data))
+f.write("\nThis is a new line.")
+
+f.close() 
