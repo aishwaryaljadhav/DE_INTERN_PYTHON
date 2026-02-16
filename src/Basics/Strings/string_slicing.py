@@ -1,0 +1,9 @@
+s1="Aishwarya"
+s2="Jadhav"
+print(s1+s2)
+print(s1[0])
+print(s1[1:4])
+print(s1[1:])
+print(s1[:4])
+print(s1[-5:-1])
+len(s1+s2)

@@ -1,0 +1,12 @@
+name="Aishwarya"
+age=21
+edu="BTech-CSE"
+cost=100.5
+old=False
+a=None
+print(type(name))
+print(type(age))
+print(type(edu))
+print(type(cost))
+print(type(old))
+print(type(a))
